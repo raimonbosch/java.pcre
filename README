@@ -1,3 +1,5 @@
 This project is intented to be a simplification for using regular expressions in Java.
 
-The code is inspirated by the pcre library http://php.net/manual/en/book.pcre.php written in php with some code optimizations only aplicable in Java language.
+The code is inspirated by the Pcre library for PHP http://php.net/manual/en/book.pcre.php.
+
+The code contains interfaces very similar to Pcre but implemented and optimized for Java.
